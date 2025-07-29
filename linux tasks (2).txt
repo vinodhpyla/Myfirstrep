@@ -1,0 +1,6 @@
+tasks:
+
+
+1. Lets assume that i have 2 folders (folder1 & folder2). Folder1 has 3 files and Folder2 is empty. Now how to copy the files from folder1 to folder2
+2. Lets assume that i have 5 files (file1, file2, file3, file4 and file5). File1 has some data, now how to copy the data from file1 to remaining 4 files
+3. Lets assume that i have 2 folders (folder1 & folder2). Folder1 has 3 files and 2 folders and Folder2 is empty. Now how to copy the files and folders from folder1 to folder2
